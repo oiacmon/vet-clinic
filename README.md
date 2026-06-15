@@ -80,9 +80,7 @@ O diagrama completo do sistema está disponível em:
 
 📄 `docs/DiagramaClasseVet.png`
 
-```markdown
 ![Diagrama UML](src/docs/DiagramaClasseVet.png)
-```
 
 ---
 
